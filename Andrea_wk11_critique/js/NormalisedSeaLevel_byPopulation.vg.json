@@ -26,7 +26,7 @@
     "lookup": "properties.NAME",
     "from": {
     "data": {
-    "url": "/data/RiseSeaLevel_Population_CleanCSV.csv"
+    "url": "data/RiseSeaLevel_Population_CleanCSV.csv"
     },
     "key": "Country",
     "fields": ["Onemeter", "Twometer","Population","OnemeterPercentage"]
